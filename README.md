@@ -254,3 +254,6 @@ Automated defect detection systems can be applied in industries such as:
 - Packaging quality control
 
 Using CNN-based defect detection can help manufacturers detect faulty products early and maintain consistent quality standards.
+
+## Author
+Shinoj K R
