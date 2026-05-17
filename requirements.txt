@@ -1,10 +1,11 @@
 Requirements
 
 Python Libraries Used
-tensorflow
-numpy
-pandas
-matplotlib
-seaborn
-opencv-python
-scikit-learn
+*tensorflow
+*numpy
+*pandas
+*matplotlib
+*seaborn
+*opencv-python
+*scikit-learn
+
