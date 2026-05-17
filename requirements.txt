@@ -1,3 +1,7 @@
+Requirements
+
+Python Libraries Used
+
 tensorflow
 numpy
 pandas
